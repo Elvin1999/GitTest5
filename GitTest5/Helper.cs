@@ -12,5 +12,10 @@ namespace GitTest5
         {
             return 100M;
         }
+
+        public static string GetSpecialText()
+        {
+            return "Hi";
+        }
     }
 }

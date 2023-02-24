@@ -14,3 +14,5 @@ C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\GitTest5.csproj.GenerateR
 C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\GitTest5.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\GitTest5.exe
 C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\GitTest5.pdb
+C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\Window1.g.cs
+C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\Window1.baml
