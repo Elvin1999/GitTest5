@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\GitTest5\GitTest5\bin\Debug\GitTest5.exe.config
+C:\Users\User\source\repos\GitTest5\GitTest5\bin\Debug\GitTest5.exe
+C:\Users\User\source\repos\GitTest5\GitTest5\bin\Debug\GitTest5.pdb
+C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\GitTest5.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\GitTest5.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\App.g.cs
+C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\GitTest5_MarkupCompile.cache
+C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\GitTest5_MarkupCompile.lref
+C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\GitTest5.g.resources
+C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\GitTest5.Properties.Resources.resources
+C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\GitTest5.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\GitTest5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\GitTest5.exe
+C:\Users\User\source\repos\GitTest5\GitTest5\obj\Debug\GitTest5.pdb
