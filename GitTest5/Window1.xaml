@@ -8,7 +8,16 @@
         Title="Window1" Height="450" Width="800" Background="IndianRed">
     <Grid>
         <WrapPanel>
-            <Button></Button>
+            <Button>Hi</Button>
+        </WrapPanel>
+        <WrapPanel>
+            <Button>Hi</Button>
+        </WrapPanel>
+        <WrapPanel>
+            <Button>Hi</Button>
+        </WrapPanel>
+        <WrapPanel>
+            <Button>Hi</Button>
         </WrapPanel>
     </Grid>
 </Window>
